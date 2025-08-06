@@ -1,11 +1,14 @@
 # 🤖 Curso de Inteligencia Artificial con Arduino, ESP32, NodeMCU, Raspberry Pi y Python
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-2C6BED?style=for-the-badge&logo=esp32&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/NodeMCU-008000?style=for-the-badge&logo=nodemcu&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 Bienvenido a este repositorio del **Curso de Inteligencia Artificial (IA)** enfocado en la aplicación práctica con **tecnologías de hardware y programación embebida**. Aquí encontrarás todo lo necesario para combinar el poder de la IA con plataformas como **Arduino**, **ESP32**, **NodeMCU**, **Raspberry Pi**, y lenguajes como **Python**.
